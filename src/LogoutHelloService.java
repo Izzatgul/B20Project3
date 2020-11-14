@@ -1,3 +1,3 @@
 public class LogoutHelloService {
-    // added nice code for login service
+    // added nice code for logout service
 }
