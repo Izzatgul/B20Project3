@@ -1,3 +1,3 @@
 public class LogoutHelloUtility {
-    // added nice code for login utility
+    // added nice code for logout utility
 }
